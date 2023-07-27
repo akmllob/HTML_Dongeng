@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dongeng Pengantar Tidur : Dijamin bikin bangun</title>
+    <link rel="icon" href="LOGO MERMAID DMR.png">
+</head>
+<style>
+    .judul {
+        text-align: center;
+        font-family: Geneva, Verdana;
+        color: #3667A6;
+    }
+</style>
+
+<body style="background: linear-gradient(100deg, #FFDBAA, #FFD1DA)">
+    <h1 class="judul">Gajah Yang Pelupa</h1>
+    <br>
+    <center>
+        <img controls width="500" src="Gajah.jpg" alt="" hspace="50">
+        <video controls width="500" hspace="50">
+            <source src="Geri si Gajah Pelupa _ Dongeng Bahasa Indonesia _ Cerita Indonesia.mp4" />
+        </video>
+    </center>
+    <br>
+    <h3 style="color: #3667A6">
+        <img src="gajahku.jpg" width="150" height="200" align="left" hspace="20" vspace="20">
+        <p style="text-align: justify;text-indent: 0.5in;"> Geri adalah seekor gajah pelupa yang tidak pernah mengingat
+            apapun dan selalu melupakan segala hal. Dia pun sering melupakan janjinya bersama teman dan mengingkari
+            janjinya.
+            Ketika dimarahi, Geri hanya dapat meminta maaf dengan tatapan yang menyedihkan.Karena hal tersebut, Geri
+            dimusuhi oleh seekor gajah bernama Susi.
+            Susi sering kesal dan memarahi Geri ketika Geri lupa dengan janjinya. Sampai akhirnya, Susi meminta Geri
+            merayakan ulang tahunnya dan jika Geri tidak datang, maka Susi tidak akan lagi berteman dengan Geri.
+            Geri pun akhirnya mengikatkan pita besar di kasurnya agar dia bisa ingat untuk mengunjungi pesta Susi.Ketika
+            pagi hari, Geri melihat pita besar di kasurnya dan ingat dia memiliki janji dengan seseorang, tetapi lupa
+            siapa yang membuat janji dengannya.
+            Geri pun berkeliling hutan untuk menanyakan semua orang dan berpikir untuk mengunjungi Susi karena Susi
+            gajah terpintar yang ia kenal. Ketika mengunjungi rumah Susi, Susi senang karena Geri mengingat janjinya dan
+            merayakan ulang tahun bersama
+            Geri.Pelajaran dari cerita pendek di atas adalah jangan pernah mengingkari janji dengan seseorang.</p>
+    </h3>
+    <center>
+    <a href="https://berita.99.co/dongeng-pendek-untuk-anak/">
+        kamu bisa mencari cerita lain disini
+    </a>
+    </center>
+    <br>
+    <br>
+</body>
+
+</html>
